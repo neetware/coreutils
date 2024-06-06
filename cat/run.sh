@@ -1,1 +1,0 @@
-swiftc main.swift -o main && ./main file.txt
