@@ -1,0 +1,1 @@
+swiftc main.swift -o main && ./main && rm main
