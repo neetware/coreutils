@@ -1,6 +1,6 @@
 import Foundation
 
-// enable FileManager class
+// enable FileManager
 let fm = FileManager.default
 
 // get working directory
