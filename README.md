@@ -2,7 +2,7 @@
 
 - [x] cat
 - [x] cp
-- [ ] date
+- [x] date
 - [x] hostname
 - [x] ls
 - [x] mkdir
